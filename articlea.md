@@ -47,3 +47,13 @@ To get started with Python, you will need to download and install the Python sof
 
 To write code in Python, you can use any text editor or integrated development environment (IDE). Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio Code.
 
+# Python Libraries
+
+Python has a wide range of libraries available that provide additional functionality for different tasks. Some of the most popular libraries include:
+
+| **Library**     | **Description**                                           |
+| :---------------| :-------------------------------------------------------- |
+| **NumPy**       | A library for working with arrays and matrices.           |
+| **Pandas**      | A library for working with data frames and data analysis. |
+| **Matplotlib**  | A library for creating visualizations and plots.          |
+| **Scikit-learn**| A library for machine learning and data mining.           |
