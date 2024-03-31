@@ -105,4 +105,3 @@ Here are some helpful resources for learning more about Python:
 - [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - A free online book that provides a comprehensive introduction.
 
 _Article content is generated using ChatGPT._
-Lorem ipsum dolor sit amet
